@@ -4,7 +4,7 @@ A simple Python script to brute-force subdomains for a given base domain using a
 
 Installation:
     # Clone the repository
-    git clone https://github.com/yourusername/subdomain-bruteforce.git
+    git clone https://github.com/clarkvoss/SubDomain-BruteForcer.git
     cd subdomain-bruteforce
 
     # (Optional) Create and activate a virtual environment
